@@ -88,6 +88,7 @@ Distributed under the GNU General Public License v3.0 License. See [LICENSE](./L
     <td align="center"><a href="https://github.com/Spurthi7768"><img src="https://avatars.githubusercontent.com/u/67674744?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Spurthi7768</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=Spurthi7768" title="Documentation">📖</a> <a href="https://github.com/siv2r/kidney-exchange/commits?author=Spurthi7768" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/darpankhanna"><img src="https://avatars.githubusercontent.com/u/72389408?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Darpan Khanna</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=darpankhanna" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/subhangi2731"><img src="https://avatars.githubusercontent.com/u/53938490?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Subhangi Choudhary</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=subhangi2731" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/nandini040"><img src="https://avatars.githubusercontent.com/u/68437129?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nandini</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=nandini040" title="Documentation">📖</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/96RadhikaJadhav"><img src="https://avatars.githubusercontent.com/u/56536997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Radhika</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=96RadhikaJadhav" title="Code">💻</a></td>
@@ -121,7 +122,6 @@ Distributed under the GNU General Public License v3.0 License. See [LICENSE](./L
     <td align="center"><a href="https://github.com/ayushseth07"><img src="https://avatars.githubusercontent.com/u/54364704?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayush Seth</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=ayushseth07" title="Code">💻</a></td>
     <td align="center"><a href="https://m2kishore.github.io/portfolio-website/"><img src="https://avatars.githubusercontent.com/u/60045529?v=4?s=100" width="100px;" alt=""/><br /><sub><b>M M Kishore</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=M2kishore" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/6D-pixel"><img src="https://avatars.githubusercontent.com/u/72263006?v=4?s=100" width="100px;" alt=""/><br /><sub><b>6D-pixel</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=6D-pixel" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/nandini040"><img src="https://avatars.githubusercontent.com/u/68437129?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nandini</b></sub></a><br /><a href="https://github.com/siv2r/kidney-exchange/commits?author=nandini040" title="Documentation">📖</a></td>
   </tr>
 </table>
 
